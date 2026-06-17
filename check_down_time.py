@@ -2,7 +2,7 @@ import pymysql, time
 from datetime import datetime
 
 # ─── CONFIG ───────────────────────────────────────────
-HOST ='Enter database_Endpoints' 
+HOST ='Enter database_Endpoint' 
 USER ='Enter user name here'
 PASS = 'Enter Password here'
 
