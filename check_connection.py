@@ -1,6 +1,6 @@
-HOST = 'database-1.cd0e8sw4y86e.us-east-2.rds.amazonaws.com'
-USER = 'admin'
-PASS = 'rohit1234'
+HOST = 'Enter Endpoint'
+USER = 'Endpoint user'
+PASS = 'Endpoint password'
 
 import pymysql
 
