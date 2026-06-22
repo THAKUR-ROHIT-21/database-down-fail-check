@@ -12,10 +12,10 @@ src = pymysql.connect(
 # Destination database
 dst = pymysql.connect(
     host='Endpoint where recover data',
-    user='admin',
-    password='admin123',
+    user='user name',
+    password='password',
     port=3306,
-    database='banking_db'
+    database='project name'
 )
 
 src_cur = src.cursor()
