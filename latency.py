@@ -6,8 +6,8 @@ from pymysql import OperationalError, Error
 HOST_MUMBAI = 'Endpoint-1'
 HOST_VERGINA = 'Endpoint-2'
 
-USER = 'admin'
-PASS = 'Admin123'
+USER = 'User Name'
+PASS = 'Password'
 PORT = 3306
 
 
