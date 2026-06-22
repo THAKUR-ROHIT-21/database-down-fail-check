@@ -3,10 +3,10 @@ import pymysql
 # Source database (recovery source)
 src = pymysql.connect(
     host='Endpoint-1(dalate data endpoint)',
-    user='admin',
-    password='admin123',
+    user='User Name',
+    password='Passwor',
     port=3306,
-    database='banking_db'
+    database='project name'
 )
 
 # Destination database
